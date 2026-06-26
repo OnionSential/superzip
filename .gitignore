@@ -1,0 +1,14 @@
+*.exe
+*.o
+*.obj
+*.dll
+
+*.sz
+*.mx
+
+installer/Output/
+
+*.bak
+*.tmp
+.DS_Store
+Thumbs.db
